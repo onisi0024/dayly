@@ -264,12 +264,42 @@
                    {"title":"ケーキができました",
   "date":"2026/6/21",
   "file":"diary64.html"},
-                                       {"title:"１人で自習室まで行きました",
+         {"title:"１人で自習室まで行きました",
   "date":"2026/6/22",
   "file":"diary65.html"
               },
-                                        {"title:"サッカーをしました",
+         {"title:"サッカーをしました",
   "date":"2026/6/23",
   "file":"diary66.html"
+              },
+          {"title":"腕を痛めました",
+  "date":"2026/6/24",
+  "file":"diary67.html"
+              },
+        {"title":"塾に行きました、",
+  "date":"2026/6/25",
+  "file":"diary68.html"},
+         {"title:"サッカーの試合がありました",
+  "date":"2026/6/26",
+  "file":"diary69.html"
+              },
+       {"title:"台風が来ました",
+  "date":"2026/6/27",
+  "file":"diary70.html"
+              },
+           {"title":"イオンに行きました",
+  "date":"2026/6/28",
+  "file":"diary71.html"
+              },
+        {"title":"サッカーの試合がありました",
+  "date":"2026/6/29",
+  "file":"diary72.html"},
+         {"title:"サッカーをしました",
+  "date":"2026/6/30",
+  "file":"diary73.html"
+              },
+       {"title:"ギプスが取れました",
+  "date":"2026/7/1",
+  "file":"diary74.html"
               }
 ]
