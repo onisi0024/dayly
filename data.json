@@ -286,5 +286,20 @@
        {"title:"台風が来ました",
   "date":"2026/6/27",
   "file":"diary70.html"
+              },
+           {"title":"イオンに行きました",
+  "date":"2026/6/28",
+  "file":"diary71.html"
+              },
+        {"title":"サッカーの試合がありました",
+  "date":"2026/6/29",
+  "file":"diary72.html"},
+         {"title:"サッカーをしました",
+  "date":"2026/6/30",
+  "file":"diary73.html"
+              },
+       {"title:"ギプスが取れました",
+  "date":"2026/7/1",
+  "file":"diary74.html"
               }
 ]
